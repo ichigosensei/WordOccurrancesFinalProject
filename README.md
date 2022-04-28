@@ -9,11 +9,14 @@ This project covers the following topics:
 - Databases
 - Deployment
 
-*Project Description*
+***Project Description***
+
 This project is a text analyzer that gets the user's input and counts how many times each word occurred in the text.
 
-*Project Author*
+***Project Author***
+
 Trinidad, Strawberry Ann 
 
-*Completion Date*
+***Completion Date***
+
 April 28, 2022
